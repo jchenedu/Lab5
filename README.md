@@ -1,6 +1,6 @@
 # Lab5
 
-**INCLUDED FILES ARE LOGS FOR TASK 1-3, THE OUTPUT OF TASK 1 AND THE GIF I MADE**
+**INCLUDED FILES ARE THE LOGS FOR TASK 1-3, OUTPUT OF TASK 1, SCRIPTS AND THE GIF I MADE**
 
 Task 1:
 Downloaded a sample csv dataset from the web; renamed the file to data and performed a random sampling of the file. Then used the cut command to extract the entire second column of the data set.
